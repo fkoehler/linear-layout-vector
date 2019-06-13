@@ -1,0 +1,1 @@
+A version of https://www.npmjs.com/package/invariant in a git repo to allow myself to build a webjar for it easily.
